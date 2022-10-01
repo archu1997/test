@@ -1,6 +1,6 @@
 archu
-`first line
-<<<<<<< HEAD
-`archana
+first line
+HEAD
+archana
 changes made by archana
 reddy
