@@ -1,4 +1,8 @@
 `first line
+<<<<<<< HEAD
 archana
 
 
+=======
+changes made by archana
+>>>>>>> 5b7aea487d4bc434fcfde9344fc86b5ae6f8b7bc
